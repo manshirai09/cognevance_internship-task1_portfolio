@@ -8,7 +8,7 @@ const contactRoutes = require("./routes/contactRoutes");
 const app = express();
 
 app.use(cors({
-  origin: "http://localhost:5173", "https://portfolio-frontend-peach-psi.vercel.app",
+  origin:"https://portfolio-frontend-peach-psi.vercel.app",
   methods: ["GET", "POST"],
 }));
 app.use(express.json());
