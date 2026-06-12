@@ -9,7 +9,7 @@ This project demonstrates modern frontend design, backend API integration, and d
 
 🔗 **Frontend Live:** https://portfolio-frontend-peach-psi.vercel.app
 🔗 **Backend API:** https://portfolio-backend-u8ev.onrender.com
-🔗 **GitHub Repository:** https://github.com/manshirai09/cognevance_internship-task1_portfolio
+🔗 **GitHub Repository:** https://github.com/manshirai09/cognevance_portfolioWebsite
 
 ---
 
